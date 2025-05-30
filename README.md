@@ -1,6 +1,6 @@
 # fish_detect-Deteksi-ikan-sederhana
 
-link download data set : https://drive.google.com/file/d/1cNNHDwdxyj0JemUsG6vsZSLkz4Af3P7V/view?usp=sharing
+link download data set : https://drive.google.com/drive/folders/1oxa3UWM28LGfpXBYABcMoIBdNKD33NpC?usp=sharing
 
 ![kumpulan_ikan](https://github.com/user-attachments/assets/3682bfc5-0fac-4976-a969-055404a9545e)
 
