@@ -5,7 +5,7 @@ import cv2
 model = YOLO("fishgen.pt")
 
 # Load gambar
-image_path = r"C:\Users\PATRI\Documents\PBO\fish_detect - Copy\kumpulan_ikan.jpg"
+image_path = r"path/ke/folder/best.pt" # Gantilah "path/ke/folder/" dengan path lengkap tempat file best.pt berada.
 image = cv2.imread(image_path)
 
 # Deteksi
